@@ -1,0 +1,33 @@
+.register-page {
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+  display: flex;
+  background-color: #4a80bd;
+}
+
+.register-page .form {
+  height: auto;
+  width: 40%;
+  box-shadow: 1px 5px 10px darkslategrey;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+}
+
+.form form {
+  width: 70%;
+  margin: auto;
+}
+
+.register-page button {
+  background-color: lightskyblue !important;
+  color: white !important;
+}
+
+.register-page button:hover {
+  background-color: #0069d9 !important;
+  color: white !important;
+}

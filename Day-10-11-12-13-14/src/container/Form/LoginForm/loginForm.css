@@ -1,0 +1,36 @@
+.login-page {
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+  display: flex;
+  background-color: #66bd4a;
+}
+
+.login-page .form {
+  height: auto;
+  width: 40%;
+  box-shadow: 1px 5px 10px darkgreen;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+}
+
+.form form {
+  width: 70%;
+  margin: auto;
+}
+
+p {
+  color: lightgrey;
+}
+
+a {
+  text-decoration: none;
+  color: #66bd4a;
+}
+
+.para-footer {
+  margin-top: 20px;
+}
